@@ -1,9 +1,7 @@
-👋 Hi, I’m @Nulfy
+# 👋 Hello !
 
-My name is Dev Kapadia, and I study at Penrith Selective High School.
+My name is Dev Kapadia! I'm a 17 year old intermediate programmer and hobbyist. 
 
-I like to develop a variety of programs, usually for hobbies or as small projects for school. My programs are usually written in either Java, Python or JS.
+I live in Sydney, Australia, and am currently studying in Year 12 at Penrith Selective High School.
 
-I also play games, namely Valorant (currently Immortal 3) and previously Bedwars (500 stars).
-
-You can find me on all my socials as @devkapa.
+You can find me on all my socials as **@devkapa**.
