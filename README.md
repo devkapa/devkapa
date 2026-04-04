@@ -1,6 +1,6 @@
 # 👋 Hello !
 
-My name is Dev Kapadia! I'm a 19 year old programmer and hobbyist - but a little out of the habit! 
+My name is Dev Kapadia! I'm a 20 year old programmer and hobbyist - but a little out of the habit! 
 
 I live in Canberra, Australia, and currently study Actuarial Studies at ANU.
 
